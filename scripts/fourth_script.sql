@@ -14,4 +14,4 @@ FROM
 	reviews
 ORDER BY 
 	artist, 
-	score;
+	score DESC;

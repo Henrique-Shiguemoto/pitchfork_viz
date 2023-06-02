@@ -2,15 +2,14 @@
 
 Created by: Henrique Shiguemoto Felizardo
 Date: 6/1/2023
-Description: Above average artists for each genre.
+Description: Above average artists per genre.
 
 */
 
 SELECT
 	artist AS Artist, 
 	ROUND(AVG(score), 2) AS Average_Rating,
-	genre AS Genre, 
-	[Average Rating] AS Average_Genre_Rating
+	genre AS Genre
 FROM 
 	reviews
 INNER JOIN 

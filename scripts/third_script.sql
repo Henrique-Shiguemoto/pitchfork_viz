@@ -2,7 +2,7 @@
 
 Creted by: Henrique Shiguemoto Felizardo
 Date: 6/1/2023
-Description: Best rated artists per genre
+Description: Best rated artists per year
 
 */
 
