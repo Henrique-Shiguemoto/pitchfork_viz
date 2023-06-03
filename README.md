@@ -6,13 +6,9 @@ The dataset used was found in this [link](https://www.kaggle.com/datasets/nolanb
 
 The SQL queries made are in the <code>scripts</code> folder. Each one has a description at the beginning of the file. The results of the queries are saved in the <code>datasets</code> folder.
 
-The visualization can be found soon...
+The visualization can be found [here](https://public.tableau.com/app/profile/henrique.felizardo/viz/PitchforkReviewsViz/Painel1?publish=yes).
 
 # Technologies Used
 
 - SQL and SQLite
 - Tableau Public
-
-# Screenshots
-
-Soon...
